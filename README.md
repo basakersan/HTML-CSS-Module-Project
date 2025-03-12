@@ -23,3 +23,5 @@ The aim of this exercise is to create a page that looks just like this one:
  - **Commit and push your code often** (for example every half an hour)so you get into the habit and you avoid losing any code that you write if your machine crashes for example. 
  - Once you're ready to submit your homework for review, do a final push and **create a Pull Request**. If you're unsure how to do this, [you can use this guide for creating pull requests](https://curriculum.codeyourfuture.io/guides/create-a-pull-request/).
 
+##"Bu değişiklik benim fork'umdan geliyor"
+
